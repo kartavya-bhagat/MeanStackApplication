@@ -12,8 +12,12 @@ cd /NodeJS/
 
 node index.js
 
+NodeJs will be running on localhost:3000/employees
+
 <b>For running the Client side server</b>
 
 cd /AngularApp/
 
 ng serve --open
+
+The AngularApp will be running on localhost:4200
