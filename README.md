@@ -1,5 +1,5 @@
 # MeanStackApplication
-<b>Build a MEAN Stack application from scratch</b> 
+<b>Built a MEAN Stack application from scratch</b> 
 
 Node version == 10.^
 Angular version == 6.^
